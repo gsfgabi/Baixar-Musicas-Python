@@ -1,7 +1,5 @@
 # 🎵 **YouTube Playlist Downloader to MP3**
 
-Transforme músicas e playlists do YouTube em arquivos MP3 de alta qualidade diretamente no seu computador, sem depender de sites ou ferramentas online! 🚀  
-
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Baixar--Musicas--Python-blue?style=for-the-badge&logo=github)](https://github.com/gsfgabi/Baixar-Musicas-Python.git)
 
 ---
